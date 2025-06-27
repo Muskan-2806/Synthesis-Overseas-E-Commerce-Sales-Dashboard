@@ -1,8 +1,8 @@
 # 📊 SYNTHESIS OVERSEAS E-COMMERCE SALES DASHBOARD
 
-**Intern Name**: B. Thrisha  
+**Intern Name**: Muskan  
 **Company**: Codtech IT Solutions  
-**Intern ID**: CT04DF777  
+**Intern ID**: CT04DF2373  
 **Domain**: Power BI  
 **Duration**: 4 Weeks  
 **Mentor**: Neela Santosh
@@ -113,4 +113,5 @@ synthesis-ecommerce-dashboard/
 
 ## 📁 Output
 
+![Image](https://github.com/user-attachments/assets/77939263-efb3-4a43-9ad0-37e5eb499828)
 
